@@ -6,7 +6,7 @@
 # Stochastic Resonance in a LIF Neuron
 ## BSc Artificial Intelligence - Brain Modeling Project
 
-Computational study of **stochastic resonance in neural systems** using a **Leaky Integrate-and-Fire (LIF) neuron model**.  
+Computational neuroscience simulation investigating **stochastic resonance in Leaky Integrate-and-Fire neurons** and its role in enhancing weak signal detection and spike–signal synchronization.
 The project investigates how stochastic noise can enhance the detection of weak subthreshold signals and improve spike–signal synchronization at both **single-neuron and population levels**.
 
 ## Project Overview
