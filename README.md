@@ -153,7 +153,6 @@ Irene Marrali
 BSc in Artificial Intelligence 
 University of Pavia - University of Milano Statale - University of Milano-Bicocca
 
-## License
-MIT License
+
 
 
